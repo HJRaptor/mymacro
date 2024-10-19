@@ -20,7 +20,7 @@
     --> Please laser cut the plate in 3mm clear acrylic and 3D print the rest of the pieces.
 
 # My Model
-    ![fusion](https://github.com/user-attachments/assets/124d154d-23c7-4de4-815c-c3785ad32571)
+    ![fusion](https://raw.githubusercontent.com/hjraptor/mymacro/main/CAD/fusion.png)
 
 # My schematic
     ![schematic](https://github.com/user-attachments/assets/c0e1cfb8-3177-4542-b325-3ac2fdce4b8f)
