@@ -15,3 +15,5 @@
     (16) Mill-Max 0305s hotswap socket
     (2) any encoder knobs at hq
     (2) EC11 encoder
+    
+    --> Please laser cut the plate in 3mm clear acrylic and 3D print the rest of the pieces.
