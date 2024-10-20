@@ -3,7 +3,7 @@
 As part of **Hack Club’s HACKPAD YSWS** program, I embarked on a rewarding journey to build my own DIY macropad. This experience allowed me to explore various technical disciplines, from designing a custom **PCB in KiCAD** to **coding my very own firmware with QMK**. The most challenging aspect of the project was undoubtedly the PCB design. It required extensive research into component specifications, navigating datasheets, and ensuring that each part—switches, diodes, microcontrollers—was properly integrated into the design. The process of **placing components and routing the traces** was the most time-consuming and working through these challenges gave me a much deeper understanding of electronics design.
 
 On the other hand, the part I enjoyed the most was **working with CAD**. With my existing CAD skills, I was able to confidently create a functional layout for the macropad’s physical structure. Translating these skills into real-world applications for a product I could use was fulfilling and rewarding. Coding the firmware was surprisingly straightforward, thanks to QMK's user-friendly environment, making the software side of things much simpler than anticipated. 
-***Overall, this project was an invaluable learning experience that not only introduced me to PCB design but also allowed me to merge my existing skills with new knowledge to create something tangible and functional.***
+***Overall, this project was an invaluable learning experience that not only introduced me to PCB design but also allowed me to merge my existing skills with new knowledge to create something functional.***
 ## Bill Of Materials
 
     Xiao RP2040
